@@ -22,7 +22,8 @@ if __name__ == '__main__':
     parser.add_argument(
         '-s',
         '--stream',
-        type=bool,
+        type=int,
+        choices=[0, 1],
         default=0,
         help="""How the app should get data. If this option set to 0,
             then provide a date for -sDate and -eDate""")
