@@ -1,10 +1,8 @@
 from argparse import Namespace
-from dotenv import load_dotenv
-import os
+from src.services import twitter
 
 
 def serve(args: Namespace) -> None:
-    load_dotenv('./src/env/.env')
-
     print(args.stream)
-    print(os.getenv("NOSQL_PASS"))
+
+    twitter.login()
