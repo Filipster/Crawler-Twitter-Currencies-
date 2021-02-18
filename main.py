@@ -1,6 +1,8 @@
 import argparse
 import datetime
 
+from src import app
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='A Crawler for twitter API')
 
@@ -37,7 +39,7 @@ if __name__ == '__main__':
 
     parser.add_argument(
         '-eDate',
-        '--endtDate',
+        '--endDate',
         type=str,
         default=str(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')),
         help="""When stream set to 0,
@@ -45,3 +47,5 @@ if __name__ == '__main__':
 
     args = parser.parse_args()
     print(args)
+
+    app.serve(args)
