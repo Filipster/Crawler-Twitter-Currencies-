@@ -1,6 +1,5 @@
 from TwitterAPI import TwitterAPI
 import os
-import json
 from dotenv import load_dotenv
 # from src.services.model import Tweet
 import datetime
@@ -36,7 +35,10 @@ def sample_tweet(term: str, stream: int = 0, limit: int = 1) -> dict:
     res = []
     for tw in tweets:
         text = '"' + tw['text'] + '"'
-        new_datetime = datetime.datetime.strftime(datetime.datetime.strptime(tw['created_at'], '%a %b %d %H:%M:%S +0000 %Y'), '%Y-%m-%d %H:%M:%S')
+        new_datetime = datetime.datetime.strftime(
+            datetime.datetime.strptime(
+                tw['created_at'], '%a %b %d %H:%M:%S +0000 %Y'),
+            '%Y-%m-%d %H:%M:%S')
         Tweet = {
             'id': tw['id'],
             'created_at': new_datetime,
