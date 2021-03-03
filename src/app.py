@@ -1,5 +1,5 @@
 from argparse import Namespace
-from src.services import twitter
+# from src.services import twitter
 from src.services import twitter_v2
 import pandas as pd
 
@@ -11,7 +11,7 @@ def serve(args: Namespace) -> None:
         pass
     else:
         tweets = twitter_v2.sample_tweet(
-            args.term, args.stream, args.start_date, args.end_date)
+            args.term, args.stream, args.limit)
 
     if args.persist == 'screen':
         print(tweets)
