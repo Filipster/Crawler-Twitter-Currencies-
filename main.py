@@ -1,5 +1,4 @@
 import argparse
-import datetime
 import sys
 from src import app
 
@@ -32,19 +31,12 @@ if __name__ == '__main__':
             then provide a date for -sDate and -eDate""")
 
     parser.add_argument(
-        '-sDate',
-        '--start_date',
-        type=str,
-        default=str(datetime.datetime.now().strftime('%Y-%m-%d 00:00:00')),
-        help='When set to 0, the app will get data from this date to -eDate')
+        '-l',
+        '--limit',
+        type=int,
+        default=1,
+        help='How much tweets will be crawled.')
 
-    parser.add_argument(
-        '-eDate',
-        '--end_date',
-        type=str,
-        default=str(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')),
-        help="""When stream set to 0,
-            the app will get data from startDate to this""")
 
     args = parser.parse_args()
     app.serve(args)

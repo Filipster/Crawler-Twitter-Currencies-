@@ -1,0 +1,265 @@
+id;created_at;text;lang;retweets;user_id;user_name;user_followers;user_friends;user_location
+1367152967460261889;2021-03-03 16:40:42;"""RT @BahamaBen9: What is the best under the radar company you own?
+
+E.g. $AVLR, $BL, $STNE""";en;15;1321032893527973888;BahamaBen;3;31;
+1367152554489090048;2021-03-03 16:39:04;"""RT @BahamaBen9: Multi-bagger holdings for 2020;
+
+$RDFN, $SQ, $AAPL, $FSLY, $STNE, $TWLO, $LVGO, $PTON, $SHOP, $SPOT, $PINS, $MELI, $TTD, $S…""";en;2;1321032893527973888;BahamaBen;3;31;
+1367152059536076804;2021-03-03 16:37:06;"""RT @BahamaBen9: - Major trends for 2021 -
+My favorite picks (in order)
+
+Cybersecurity: $CRWD $ZS $OKTA
+Real estate tech: $RDFN $Z $OPEN
+E-c…""";en;80;1321032893527973888;BahamaBen;3;31;
+1367151523487232006;2021-03-03 16:34:58;"""RT @BahamaBen9: Updated portfolio -
+
+$RDFN $SQ $SHOP $PTON $TSLA $DOCU $AMZN $AAPL $PINS $SE $MELI $CRWD $TWLO $ETSY $CRM $GBTC $TTD $STNE…""";pl;8;1321032893527973888;BahamaBen;3;31;
+1367150849152090113;2021-03-03 16:32:17;"""Free entries &amp; exits given daily!
+
+Discord:
+
+$ABUS $JDST $VXRT $LEJU $EMAN $TVIX $INPX $FUV $MRNA $HMHC $W $TRIP… https://t.co/sS3Z6dga7x""";en;0;1351544588519915520;Vijay;388;0;
+1367150598366392323;2021-03-03 16:31:17;"""RT @BahamaBen9: 16. $STNE - 1.8%
+17. $ETSY - 1.8%
+18. $TDOC - 1.7%
+19. $TWLO - 1.4%
+20. $ROKU - 1.4%
+21. $GBTC - 1.3%
+22. $NOW - 1.2%
+23. $…""";pl;2;1321032893527973888;BahamaBen;3;31;
+1367150259244331013;2021-03-03 16:29:56;"""RT @BahamaBen9: I bought $STNE earlier this year at 20$ a share. I wrongly sold it after a gain. It took me a a few weeks to rectify my mis…""";en;2;1321032893527973888;BahamaBen;3;31;
+1367150201694261254;2021-03-03 16:29:43;"""I’m sitting out for a couple of weeks, papertrading some straddles around $STNE , $ULTA and $DOCU earnings in the m… https://t.co/csBuPSJUmP""";en;0;1340410032236728326;PaulTudorJonesFan;62;53;
+1367149920835223558;2021-03-03 16:28:36;"""RT @BahamaBen9: Over the past two weeks I've added to my holdings - $DOCU, $SHOP, $TWLO, $SE, $CRWD, $ZM, $DKNG, $TSLA, $TDOC and $STNE""";en;6;1321032893527973888;BahamaBen;3;31;
+1367149463144382469;2021-03-03 16:26:47;"""RT @BahamaBen9: 16. $ROKU - 1.3%
+17. $STNE - 1.3%
+18. $NOW - 1.3%
+19. $MSFT - 1.2%
+20. $CRWD - 1.2%
+21. $ZS - 1.1%
+22. $ETSY - 1.1%
+23. $WD…""";pl;2;1321032893527973888;BahamaBen;3;31;
+1367149208571179009;2021-03-03 16:25:46;"""RT @BahamaBen9: $STNE 💪. Excellent quarter.""";en;2;1321032893527973888;BahamaBen;3;31;
+1367148461196513286;2021-03-03 16:22:48;"""RT @BahamaBen9: 16. $PYPL - 1.4%
+17. $TDOC - 1.4%
+18. $TTD - 1.3%
+19. $NOW - 1.2%
+20. $ROKU - 1.1%
+21. $ZS - 1.1%
+22. $FSLY - 1.0%
+23. $CRW…""";pl;3;1321032893527973888;BahamaBen;3;31;
+1367144591196045318;2021-03-03 16:07:25;"""RT @BahamaBen9: - Updated portfolio top 30 positions in order;
+
+$RDFN $SQ $TSLA $SHOP $PTON $CLPT $TWLO $TDOC $SE $ROKU $PINS #BTC $MELI $T…""";en;24;1357630186393640961;BahamaBen;0;26;
+1367143249085833220;2021-03-03 16:02:05;"""RT @AlertTrade: REVERSALtoDOWN: $STNE Stoneco Ltd https://t.co/85rlY73mC0 📉 🔜 TradeIdeas via ⟶ https://t.co/ZgCyz4rX3x""";en;1;121158213;Trade Alerts, Trade Ideas and Crypto 🇺🇸;148055;150124;
+1367142860911386626;2021-03-03 16:00:32;"""REVERSALtoDOWN: $STNE Stoneco Ltd https://t.co/85rlY73mC0 📉 🔜 TradeIdeas via ⟶ https://t.co/ZgCyz4rX3x""";en;1;121158213;Trade Alerts, Trade Ideas and Crypto 🇺🇸;148055;150124;
+1367142307573747712;2021-03-03 15:58:21;"""50 DMA Support today: $RKDA $ATVI $NEW $VERB $PFSW $AGNCO $ADMP $IYR $EVA $XCUR $BOUT $STNE $OEF $ITCI $NTRA $IDXX… https://t.co/orz9Sx6Nju""";en;0;2422703600;SwingTradeBot;12657;73;
+1367126351732424705;2021-03-03 14:54:56;"""RT @BahamaBen9: 19. $STNE: 1.2% -- (28B)
+20. $ZS: 1.0% -- (30B)
+21. $ETSY: &lt;1% -- (29B)
+22. $NOW: &lt;1% -- (112B)
+23. $DKNG: &lt;1% -- (24B)
+24.…""";en;4;1357630186393640961;BahamaBen;0;26;
+1367123669420552193;2021-03-03 14:44:17;"""RT @BahamaBen9: What is the best under the radar company you own?
+
+E.g. $AVLR, $BL, $STNE""";en;15;1136370591517290496;Joe Gambiste;10308;0;
+1367114931775143938;2021-03-03 14:09:34;"""RT @BahamaBen9: What is the best under the radar company you own?
+
+E.g. $AVLR, $BL, $STNE""";en;15;75785869;BahamaBen;0;1;
+1367113853125951488;2021-03-03 14:05:16;"""RT @BahamaBen9: Multi-bagger holdings for 2020;
+
+$RDFN, $SQ, $AAPL, $FSLY, $STNE, $TWLO, $LVGO, $PTON, $SHOP, $SPOT, $PINS, $MELI, $TTD, $S…""";en;2;75785869;BahamaBen;0;1;
+1367113297124880394;2021-03-03 14:03:04;"""RT @BahamaBen9: - Major trends for 2021 -
+My favorite picks (in order)
+
+Cybersecurity: $CRWD $ZS $OKTA
+Real estate tech: $RDFN $Z $OPEN
+E-c…""";en;80;75785869;BahamaBen;0;1;
+1367111998627065868;2021-03-03 13:57:54;"""RT @BahamaBen9: Updated portfolio -
+
+$RDFN $SQ $SHOP $PTON $TSLA $DOCU $AMZN $AAPL $PINS $SE $MELI $CRWD $TWLO $ETSY $CRM $GBTC $TTD $STNE…""";pl;8;75785869;BahamaBen;0;1;
+1367109832382283778;2021-03-03 13:49:18;"""RT @BahamaBen9: 16. $STNE - 1.8%
+17. $ETSY - 1.8%
+18. $TDOC - 1.7%
+19. $TWLO - 1.4%
+20. $ROKU - 1.4%
+21. $GBTC - 1.3%
+22. $NOW - 1.2%
+23. $…""";pl;2;75785869;BahamaBen;0;1;
+1367109408031916033;2021-03-03 13:47:37;"""RT @BahamaBen9: I bought $STNE earlier this year at 20$ a share. I wrongly sold it after a gain. It took me a a few weeks to rectify my mis…""";en;2;75785869;BahamaBen;0;1;
+1367108890417111044;2021-03-03 13:45:33;"""RT @BahamaBen9: Over the past two weeks I've added to my holdings - $DOCU, $SHOP, $TWLO, $SE, $CRWD, $ZM, $DKNG, $TSLA, $TDOC and $STNE""";en;6;75785869;BahamaBen;0;1;
+1367108366447894529;2021-03-03 13:43:28;"""RT @BahamaBen9: 16. $ROKU - 1.3%
+17. $STNE - 1.3%
+18. $NOW - 1.3%
+19. $MSFT - 1.2%
+20. $CRWD - 1.2%
+21. $ZS - 1.1%
+22. $ETSY - 1.1%
+23. $WD…""";pl;2;75785869;BahamaBen;0;1;
+1367107965304655872;2021-03-03 13:41:53;"""RT @BahamaBen9: $STNE 💪. Excellent quarter.""";en;2;75785869;BahamaBen;0;1;
+1367106760931221515;2021-03-03 13:37:06;"""RT @BahamaBen9: 16. $PYPL - 1.4%
+17. $TDOC - 1.4%
+18. $TTD - 1.3%
+19. $NOW - 1.2%
+20. $ROKU - 1.1%
+21. $ZS - 1.1%
+22. $FSLY - 1.0%
+23. $CRW…""";pl;3;75785869;BahamaBen;0;1;
+1367100853916680194;2021-03-03 13:13:37;"""By 2030 it will be very unusual to pay for anything with cash. Invest accordingly. $SQ $PYPL $ADYEY $STNE 
+BBC News… https://t.co/8xQWyHmsHB""";en;0;1229603092645191687;Joe Knight;11;368;
+1367088945897603072;2021-03-03 12:26:18;"""🇧🇷 La economía de Brasil se contrajo un 4,1% en 2020 (oficial), menos que en las otras mayores economías regionales… https://t.co/BoWTBTGr2U""";es;0;4905162880;Educando al Inversor 🇦🇷;17675;409;Buenos Aires,  Argentina
+1366945909720969217;2021-03-03 02:57:56;"""1) February taxable portfolio update:
+YTD return: 10.25%
+S&amp;P: 3.14%
+ 
+$TTD - 16%
+$MELI - 11%
+$MGNI - 11%
+$TWLO - 6%… https://t.co/6B0v4ZKQOZ""";und;0;4285459514;Joshua Brist;142;177;
+1366863286210334724;2021-03-02 21:29:37;"""@useless_trader Yes I know this feeling 😂 my favorite is $STNE. All the best for you man! 👌🏽""";en;0;1286993422675587074;srrboss;11;103;
+1366847931245076482;2021-03-02 20:28:36;"""@denizmustafatr Bu yazi uzerine EBIT/PPE oraninda Warren’in sahip oldugu portfoydeki hisselere baktim, degeri 2 ve… https://t.co/4BWXyGX8Jd""";tr;0;98091407;Gurdal;135;547;Istanbul
+1366835050143178754;2021-03-02 19:37:25;"""RT @saxena_puru: Updated portfolio -
+
+$ADYEY $AFRM* $AFTPY $ACTC $ACIC* $CRWD $CURI $DOCU $DKNG $IPOE $MELI $OPEN $OZON $PLTR $PINS $PSAC*…""";en;172;1265741265510924288;UBTrade;11;75;
+1366830820921597960;2021-03-02 19:20:36;"""RT @Options_Experts: You gotta include $BFT in your #fintech portfolio.  Plenty of upside.
+
+$dkng $pypl $stne $sq $ma""";en;1;16967457;Don Robinson;3612;710;New Jersey
+1366830003548119040;2021-03-02 19:17:21;"""You gotta include $BFT in your #fintech portfolio.  Plenty of upside.
+
+$dkng $pypl $stne $sq $ma""";en;1;49514576;OptionSpreadStrategies.com;1477;671;Click here:
+1366826003402809345;2021-03-02 19:01:28;"""Checking off $RKT and $APPS from list. Now waiting for $DKNG and $STNE""";en;0;620920504;Akasha;205;357;
+1366822290990772226;2021-03-02 18:46:43;"""$NIO $JMIA $SE $SQ $MELI $STNE $BABA $AMZN ——check out $GSKY—GreenSky —Fintech company—biggest customer is Home Dep… https://t.co/PY8kdekg3Y""";en;0;1272444522727866368;Donald38;35;9;
+1366782697264218114;2021-03-02 16:09:23;"""RT @Purickas: @robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub @HalftimeReport @Fi…""";en;1;1147166996401799168;Jim Purickas;29;80;Henderson, Nevada
+1366782683502632961;2021-03-02 16:09:19;"""@robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub… https://t.co/uqMlDsmys4""";en;1;1147166996401799168;Jim Purickas;29;80;Henderson, Nevada
+1366782325468459014;2021-03-02 16:07:54;"""RT @Purickas: @robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub @HalftimeReport @Fi…""";en;2;1312487648116662272;Jim Purickis;9;51;
+1366781660612554753;2021-03-02 16:05:16;"""RT @purickis: @robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub @HalftimeReport @Fi…""";en;1;1312487648116662272;Jim Purickis;9;51;
+1366781617063124993;2021-03-02 16:05:05;"""@robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub… https://t.co/i1QMBXaPin""";en;1;1312487648116662272;Jim Purickis;9;51;
+1366780014528786434;2021-03-02 15:58:43;"""20 DMA Support today: $AVB $PLYM $ASO $SAMG $REKR $GTYH $DRIO $REET $EXTN $ATCX $THRY $JRVR $IID $STNE $QFIN $DFAI… https://t.co/NwzvMbmwrX""";en;0;2422703600;SwingTradeBot;12657;73;
+1366779826724507650;2021-03-02 15:57:58;"""RT @Purickas: @robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub @HalftimeReport @Fi…""";en;1;1147166996401799168;Jim Purickas;29;80;Henderson, Nevada
+1366779815655694343;2021-03-02 15:57:56;"""@robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub… https://t.co/WrlF83SgiJ""";en;1;1147166996401799168;Jim Purickas;29;80;Henderson, Nevada
+1366773999351435268;2021-03-02 15:34:49;"""RT @purickis: @robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub @HalftimeReport @Fi…""";en;1;1312487648116662272;Jim Purickis;9;51;
+1366773992456036356;2021-03-02 15:34:47;"""@robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub… https://t.co/xscOZYjX64""";en;1;1312487648116662272;Jim Purickis;9;51;
+1366771076735201284;2021-03-02 15:23:12;"""RT @Purickas: @robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub @HalftimeReport @Fi…""";en;2;1147166996401799168;Jim Purickas;29;80;Henderson, Nevada
+1366771068464033795;2021-03-02 15:23:10;"""@robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub… https://t.co/kOXXcac1eK""";en;2;1147166996401799168;Jim Purickas;29;80;Henderson, Nevada
+1366770581677346821;2021-03-02 15:21:14;"""RT @purickis: @robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub @HalftimeReport @Fi…""";en;1;1312487648116662272;Jim Purickis;9;51;
+1366770575624970240;2021-03-02 15:21:13;"""@robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub… https://t.co/dFqcamn94l""";en;1;1312487648116662272;Jim Purickis;9;51;
+1366770000808136707;2021-03-02 15:18:56;"""RT @Purickas: @robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub @HalftimeReport @Fi…""";en;1;1147166996401799168;Jim Purickas;29;80;Henderson, Nevada
+1366769993698828294;2021-03-02 15:18:54;"""@robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub… https://t.co/0UHKahdSgC""";en;1;1147166996401799168;Jim Purickas;29;80;Henderson, Nevada
+1366769451895427073;2021-03-02 15:16:45;"""RT @purickis: @robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub @HalftimeReport @Fi…""";en;1;1312487648116662272;Jim Purickis;9;51;
+1366769444916092931;2021-03-02 15:16:43;"""@robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub… https://t.co/lxjHnuMrjS""";en;1;1312487648116662272;Jim Purickis;9;51;
+1366769096621101058;2021-03-02 15:15:20;"""RT @Purickas: @robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub @HalftimeReport @Fi…""";en;1;1147166996401799168;Jim Purickas;29;80;Henderson, Nevada
+1366769088723255299;2021-03-02 15:15:18;"""@robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub… https://t.co/1T0xS3JCeb""";en;1;1147166996401799168;Jim Purickas;29;80;Henderson, Nevada
+1366630509015539715;2021-03-02 06:04:38;"""$STNE Breakout watching Swing High AVWAP on a quick retrace. Continuation play.  
+@TrendSpider https://t.co/mX244SXYLW""";en;0;1294419054321471489;Clifford C;56;83;Nanakuli, HI
+1366625003903459332;2021-03-02 05:42:46;"""RT @EarningsTree: * Update Portfolio*
+
+ $SE $ROKU $PINS #BTC $MELI $TTD $AAPL $DOCU $CRWD $CRM $AMZN $STNE $DKNG $ADYEY $ZS $ETSY $MGNI $NO…""";pl;2;1066253242147856389;DM Talks;18;26;Gujarat, India
+1366624964724486144;2021-03-02 05:42:36;"""RT @EarningsTree: * Update Portfolio*
+
+ $SE $ROKU $PINS #BTC $MELI $TTD $AAPL $DOCU $CRWD $CRM $AMZN $STNE $DKNG $ADYEY $ZS $ETSY $MGNI $NO…""";pl;2;1273135921135788033;Dhairya;19;4;
+1366623873693720579;2021-03-02 05:38:16;"""* Update Portfolio*
+
+ $SE $ROKU $PINS #BTC $MELI $TTD $AAPL $DOCU $CRWD $CRM $AMZN $STNE $DKNG $ADYEY $ZS $ETSY… https://t.co/ZOyfvivreY""";pl;2;1279236556591714305;Earning Tree;243;4;
+1366618754269016066;2021-03-02 05:17:56;"""RT @GetBenchmarkCo: 💸 TOP EMERGING FINANCE PICKS 💸
+
+1️⃣ $FUTU
+2️⃣ $XP
+3️⃣ $AFRM
+4️⃣ $ADYEY
+5️⃣ $UPST
+6️⃣ $TCSG
+7️⃣ $STNE
+8️⃣ $PAGS
+9️⃣ $AFT…""";en;6;1349275076;bOta;62;1248;United States
+1366598122537803784;2021-03-02 03:55:57;"""3/2
+$U $PYPL $RPRX $ICE $AFRM $MAR $CCL $CAKE $DAL $FIS $CRWD $FB $STNE""";en;0;570790678;クララ;189;501;飛騨山脈(日本アルプス)
+1366567107157237762;2021-03-02 01:52:42;"""$STNE multi bagger from current SP! StoneCo was profitable before they IPO’d-Fintech in Portugal 🇵🇹 $PAGS $SQ $PYPL… https://t.co/m3cm3e3xdS""";en;0;1272444522727866368;Donald38;35;9;
+1366566660220604419;2021-03-02 01:50:56;"""RT @NightbellWealth: $STNE with a textbook bullish break off the rising trendline and through the consolidation resistance. Bulls reclaimed…""";en;1;1136370591517290496;Joe Gambiste;10308;0;
+1366562636595347460;2021-03-02 01:34:56;"""$STNE with a textbook bullish break off the rising trendline and through the consolidation resistance. Bulls reclai… https://t.co/AyYdrkf6qK""";en;1;1349191349317337089;Nightbell Wealth Management;67;103;New York, USA
+1366539010638835713;2021-03-02 00:01:03;"""RT @MarketRebels: Increasing unusual call option volume: $DNN $SOS $APPH $NRG $ELF $VST
+
+Increasing unusual put option volume: $VST $QSR $S…""";en;4;393638656;John Vieira;293;566;
+1366506614484828160;2021-03-01 21:52:20;"""RT @kejialabii: @HeroDividend $APPL
+$BAC
+$USB
+$STNE""";en;2;622488143;Tristan;1150;1424;The Bahamas
+1366501079668510720;2021-03-01 21:30:20;"""RT @kejialabii: @HeroDividend $APPL
+$BAC
+$USB
+$STNE""";en;2;3313871588;That B*tch;328;216;USA
+1366500382449500173;2021-03-01 21:27:34;"""@HeroDividend $APPL
+$BAC
+$USB
+$STNE""";en;2;4409258237;Keji Alabi;1326;108;Unites States
+1366498603334840320;2021-03-01 21:20:30;"""💼 on 🔥 today (ytd 26,82%)
+
+$CMC $VUZI $SDGR $MWK $NVTA $SKLZ $AI $PRCH $OZON $TSLA $PSNL $SE $TWST #GOMX 🇸🇪$LMND… https://t.co/jHO4lDZX1I""";in;0;398145347;Anette Rombout;1145;1218;Abruzzo, Italia
+1366493391417131013;2021-03-01 20:59:47;"""RT @BahamaBen9: - Updated portfolio top 30 positions in order;
+
+$RDFN $SQ $TSLA $SHOP $PTON $CLPT $TWLO $TDOC $SE $ROKU $PINS #BTC $MELI $T…""";en;24;971064643;Matteo Bestetti;1999;3033;Milano - Italy
+1366492108991827968;2021-03-01 20:54:41;"""RT @GetBenchmarkCo: 💸 TOP EMERGING FINANCE PICKS 💸
+
+1️⃣ $FUTU
+2️⃣ $XP
+3️⃣ $AFRM
+4️⃣ $ADYEY
+5️⃣ $UPST
+6️⃣ $TCSG
+7️⃣ $STNE
+8️⃣ $PAGS
+9️⃣ $AFT…""";en;6;2430257755;hiro46🇺🇸微益複利芸人投資家🤣;6299;289;
+1366483728092909569;2021-03-01 20:21:23;"""Largest PUT OI increases $T $SNAP $STNE $XPEV $AUY $VIAC $NOK $GOLD $AMC $RWT $DAL $CVNA $AAPL $F $Z $CMCSA $WISH… https://t.co/CVLlmU3xs9""";und;0;348544213;TeresaTrades;7793;813;Alaska, USA
+1366478878441570305;2021-03-01 20:02:07;"""RT @Purickas: @robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub @HalftimeReport @Fi…""";en;1;1147166996401799168;Jim Purickas;29;80;Henderson, Nevada
+1366478870388514821;2021-03-01 20:02:05;"""@robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub… https://t.co/ItKJIQrv4W""";en;1;1147166996401799168;Jim Purickas;29;80;Henderson, Nevada
+1366478723868991488;2021-03-01 20:01:30;"""RT @Purickas: @robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub @HalftimeReport @Fi…""";en;2;1136370591517290496;Joe Gambiste;10308;0;
+1366478323786784768;2021-03-01 19:59:54;"""RT @purickis: @robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub @HalftimeReport @Fi…""";en;1;1312487648116662272;Jim Purickis;9;51;
+1366478314752278528;2021-03-01 19:59:52;"""@robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub… https://t.co/9lziGTJXKq""";en;1;1312487648116662272;Jim Purickis;9;51;
+1366477966415339522;2021-03-01 19:58:29;"""RT @Purickas: @robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub @HalftimeReport @Fi…""";en;2;1147166996401799168;Jim Purickas;29;80;Henderson, Nevada
+1366477957317808128;2021-03-01 19:58:27;"""@robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub… https://t.co/AYW8UByqgi""";en;2;1147166996401799168;Jim Purickas;29;80;Henderson, Nevada
+1366476208758734848;2021-03-01 19:51:30;"""RT @GetBenchmarkCo: 💸 TOP EMERGING FINANCE PICKS 💸
+
+1️⃣ $FUTU
+2️⃣ $XP
+3️⃣ $AFRM
+4️⃣ $ADYEY
+5️⃣ $UPST
+6️⃣ $TCSG
+7️⃣ $STNE
+8️⃣ $PAGS
+9️⃣ $AFT…""";en;6;1275053148747464704;chooch;58;407;Dallas, TX
+1366475334586089473;2021-03-01 19:48:02;"""RT @GetBenchmarkCo: 💸 TOP EMERGING FINANCE PICKS 💸
+
+1️⃣ $FUTU
+2️⃣ $XP
+3️⃣ $AFRM
+4️⃣ $ADYEY
+5️⃣ $UPST
+6️⃣ $TCSG
+7️⃣ $STNE
+8️⃣ $PAGS
+9️⃣ $AFT…""";en;6;1262095147124297729;Tay The Bear Hunter;17;86;
+1366475115077267467;2021-03-01 19:47:09;"""💸 TOP EMERGING FINANCE PICKS 💸
+
+1️⃣ $FUTU
+2️⃣ $XP
+3️⃣ $AFRM
+4️⃣ $ADYEY
+5️⃣ $UPST
+6️⃣ $TCSG
+7️⃣ $STNE
+8️⃣ $PAGS
+9️⃣… https://t.co/Ia5fGBSt6V""";en;6;1299631722120851456;Benchmark;34202;402;
+1366474838479577093;2021-03-01 19:46:04;"""RT @Purickas: @robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub @HalftimeReport @Fi…""";en;1;1147166996401799168;Jim Purickas;29;80;Henderson, Nevada
+1366474830522978306;2021-03-01 19:46:02;"""@robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub… https://t.co/CZF2cngngg""";en;1;1147166996401799168;Jim Purickas;29;80;Henderson, Nevada
+1366460239340445697;2021-03-01 18:48:03;"""RT @Purickas: @robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub @HalftimeReport @Fi…""";en;1;1147166996401799168;Jim Purickas;29;80;Henderson, Nevada
+1366460228561035269;2021-03-01 18:48:00;"""@robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub… https://t.co/HP7eb8zo5f""";en;1;1147166996401799168;Jim Purickas;29;80;Henderson, Nevada
+1366459669800099840;2021-03-01 18:45:47;"""RT @purickis: @robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub @HalftimeReport @Fi…""";en;1;1312487648116662272;Jim Purickis;9;51;
+1366459658358038528;2021-03-01 18:45:44;"""@robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub… https://t.co/dZyFxViVNb""";en;1;1312487648116662272;Jim Purickis;9;51;
+1366454258258747395;2021-03-01 18:24:17;"""RT @Purickas: @robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub @HalftimeReport @Fi…""";en;1;1147166996401799168;Jim Purickas;29;80;Henderson, Nevada
+1366454246695051264;2021-03-01 18:24:14;"""@robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub… https://t.co/l0F5xXTXAZ""";en;1;1147166996401799168;Jim Purickas;29;80;Henderson, Nevada
+1366453670431256578;2021-03-01 18:21:57;"""RT @purickis: @robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub @HalftimeReport @Fi…""";en;1;1312487648116662272;Jim Purickis;9;51;
+1366453656959115264;2021-03-01 18:21:53;"""@robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub… https://t.co/cfg1j42O9C""";en;1;1312487648116662272;Jim Purickis;9;51;
+1366447192156737536;2021-03-01 17:56:12;"""RT @Purickas: @robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub @HalftimeReport @Fi…""";en;1;1147166996401799168;Jim Purickas;29;80;Henderson, Nevada
+1366447180693659648;2021-03-01 17:56:09;"""@robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub… https://t.co/axz6uR7ih9""";en;1;1147166996401799168;Jim Purickas;29;80;Henderson, Nevada
+1366446266817728512;2021-03-01 17:52:32;"""RT @purickis: @robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub @HalftimeReport @Fi…""";en;1;1312487648116662272;Jim Purickis;9;51;
+1366446254281007113;2021-03-01 17:52:29;"""@robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub… https://t.co/EAUfQbRXaW""";en;1;1312487648116662272;Jim Purickis;9;51;
+1366445679875264519;2021-03-01 17:50:12;"""RT @Purickas: @robinhoodapp @MarketRebels @MarketWatch  @SA_USMarket @fundstrat @CNBCTheExchange @ARKInvest @CramerClub @HalftimeReport @Fi…""";en;1;1147166996401799168;Jim Purickas;29;80;Henderson, Nevada

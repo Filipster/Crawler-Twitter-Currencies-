@@ -2,7 +2,7 @@ import tweepy
 import os
 import json
 from dotenv import load_dotenv
-from src.services.model import Tweet
+# from src.services.model import Tweet
 import datetime
 
 
@@ -48,17 +48,19 @@ def sample_tweet(term: str, stream: int = 0, start_date: str = "0", end_date: st
 
     res = []
     for tw in tweets:
-        Tweet['id'] = tw.id
-        Tweet['created_at'] = datetime.datetime.strftime(
-            tw.created_at, '%Y-%m-%d %H:%M:%S')
-        Tweet['text'] = tw.text
-        Tweet['lang'] = tw.lang
-        Tweet['retweets'] = tw.retweet_count
-        Tweet['user_id'] = tw.user.id
-        Tweet['user_name'] = tw.user.name
-        Tweet['user_followers'] = tw.user.followers_count
-        Tweet['user_friends'] = tw.user.friends_count
-        Tweet['user_location'] = tw.user.location
+        Tweet = {
+            'id': tw.id,
+            'created_at': datetime.datetime.strftime(
+                tw.created_at, '%Y-%m-%d %H:%M:%S'),
+            'text': tw.text,
+            'lang': tw.lang,
+            'retweets': tw.retweet_count,
+            'user_id': tw.user.id,
+            'user_name': tw.user.name,
+            'user_followers': tw.user.followers_count,
+            'user_friends': tw.user.friends_count,
+            'user_location': tw.user.location
+        }
         res.append(Tweet)
 
     return res
