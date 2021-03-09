@@ -31,12 +31,18 @@ if __name__ == '__main__':
             then provide a date for -sDate and -eDate""")
 
     parser.add_argument(
+        '-sDate',
+        '--start_date',
+        type=str,
+        default=0,
+        help="""How the app should get data.""")
+
+    parser.add_argument(
         '-l',
         '--limit',
         type=int,
         default=1,
         help='How much tweets will be crawled.')
-
 
     args = parser.parse_args()
     app.serve(args)
