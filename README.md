@@ -7,7 +7,7 @@
 
 ## Technology
 
-- Python 3.7.5
+- Python 3.7.5 and above
 - TinyDB (mongo like)
 - SQLlite (mysql like)
 
